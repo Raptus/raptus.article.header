@@ -3,12 +3,14 @@ Introduction
 
 Provide header images for article.
 
-Following features for raptus.article are provided by this package:
+The following features for raptus.article are provided by this package:
 
+Content
+-------
     * include raptus.header in article
 
-Dependencies:
-
+Dependencies
+------------
     * raptus.header
 
 Installation
@@ -46,7 +48,7 @@ configure.zcml.
 Usage
 =====
 
-1.) Add a new Headers from the "Add new" dropdown.
+1.) Add a new Header from the "Add new" dropdown.
 This Content will be a folder for your images.
 
 2.) Add a new Image from the "Add new" dropdown.
@@ -58,7 +60,5 @@ will display one of these by random.
 Copyright and credits
 =====================
 
-raptus.article is copyrighted by raptus_, and licensed under the GPL. 
+raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL. 
 See LICENSE.txt for details.
-
-.. _raptus: http://raptus.com/ 
